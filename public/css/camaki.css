@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+body{
+    background-color: #f3f5f0;
+}
+.roof img{
+    width: 100%;
+}
+.pack1{
+    padding:0 ;
+}
+.pack1 img{
+    width: 100%;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.botn img{
+    width: 100%;
+}
+.pp2{
+    margin: 0 ;
+    background-color: #0071AD;
+    color: white;
+    font-size: 19px;
+    font-weight: bold;
+    padding: 14px ;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    
+}
+.pp2 img{
+    width: 80px;
+    margin-right: 15px;
+}
+
+.botn{
+    
+    border-radius: 18px;
+    margin: 30px 0;
+    display: grid;
+    justify-content: center;
+}
+
+button{
+    height: 45px;
+    width: 100%;
+    border: none;
+    border-radius: 7px;
+    background-color: #0071AD;
+    color: white;
+    justify-self: center;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.boot img{
+    margin-top: 100px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+
+/*  */
+.pp1{
+    margin: 0 30px;
+    font-size: 17px;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+
+.pp3 img{
+    width: 100%;
+}
+.img2 img{
+    width: 100%;
+}
+.img2{
+    padding: 0 10px;
+}
+
+.kolch{
+    padding: 15px 30px;
+}
+
+input{
+    margin-top: 10px;
+    border: 1px solid #bfbdbd !important;
+border-radius: .25rem;
+
+display: block;
+font-size: 14px;
+font-weight: 400;
+height: 35px;
+
+
+transition: border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+margin-bottom: 17px;
+width: 100%;
+outline: none;
+color: #585858;
+padding: 6px 12px 7px;
+}
+input:focus{
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);
+}
+.mm{
+    margin-right: 15px;
+}.exp{
+    display: flex;
+}
+
+.inp1::placeholder{
+    font-size: 20px;
+    padding-bottom: 25px;
+}
+
+
+.inp3{
+    width: 130px;
+}
+
+.ccimg{
+    margin-left: 23px;
+    margin-bottom: 50px;
+}
+.ccimg2{
+    margin-left: 23px;
+    
+}
